@@ -1,96 +1,90 @@
-/* Reset Styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Main Footer Container */
 .main {
-    background-color: #0047ab; /* Primary blue background */
-    color: #ffffff; /* White text */
+    background-color: #0047ab; 
+    color: #ffffff;
     padding: 20px 10px;
     font-family: 'Arial', sans-serif;
 }
 
-/* Footer Sections */
+
 .cointener {
-    margin-bottom: 20px; /* Default margin for stacked layout */
+    margin-bottom: 20px; 
     padding: 20px;
-    border-radius: 8px; /* Rounded corners for visual appeal */
-    background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white background */
+    border-radius: 8px; 
+    background-color: rgba(255, 255, 255, 0.1);
     text-align: center;
 }
 
-/* Section Heading */
 .heading {
-    font-size: 22px; /* Larger heading size */
+    font-size: 22px; 
     font-weight: bold;
     margin-bottom: 10px;
-    text-transform: uppercase; /* Capitalize headings */
-    color: #ffa500; /* Distinct orange for headings */
+    text-transform: uppercase; 
+    color: #ffa500; 
 }
 
-/* Faculty Name and Student Head */
 .faculty-name {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center-align names by default */
+    align-items: center; 
 }
 
-/* Name Styling */
+
 .name {
     font-size: 18px;
     font-weight: bold;
     margin: 5px 0;
-    color: #e0e0e0; /* Lighter gray for names */
+    color: #e0e0e0; 
 }
 
-/* Large Screens: Arrange .cointener in a row */
 @media (min-width: 1024px) {
     .main {
         display: flex;
-        justify-content: space-between; /* Distribute items: start, middle, end */
-        align-items: flex-start; /* Align sections to the top */
-        gap: 30px; /* Add space between sections */
-        padding: 40px; /* Increase padding for better layout */
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 30px; 
+        padding: 40px; 
     }
 
     .cointener {
-        margin-bottom: 0; /* Remove bottom margin for row layout */
-        flex: 1; /* Ensure equal width for all sections */
-        max-width: 300px; /* Optional: Set a max width for better control */
+        margin-bottom: 0; 
+        flex: 1; 
+        max-width: 300px; 
     }
 
     .faculty-name {
-        align-items: flex-start; /* Align names to the left */
+        align-items: flex-start; 
     }
 }
 
-/* Medium Screens */
+
 @media (max-width: 768px) {
     .heading {
-        font-size: 20px; /* Slightly smaller heading */
+        font-size: 20px; 
     }
 
     .name {
-        font-size: 18px; /* Keep name size consistent */
+        font-size: 18px; 
     }
 }
 
-/* Small Screens */
 @media (max-width: 480px) {
     .heading {
         font-size: 18px;
-        color: #ffcc00; /* Different color for small screen headings */
+        color: #ffcc00; 
     }
 
     .name {
-        font-size: 16px; /* Adjust name size */
-        color: #ffffff; /* Keep names white for better contrast */
+        font-size: 16px; 
+        color: #ffffff; 
     }
 
     .cointener {
-        padding: 15px; /* Adjust padding for smaller screens */
+        padding: 15px; 
     }
 }

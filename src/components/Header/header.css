@@ -1,15 +1,12 @@
-/* header.css */
 
-/* Global Color Variables */
 :root {
-    --primary-color: #0047ab; /* Deep blue for sports vibe */
-    --secondary-color: #f5f5f5; /* Light gray for background */
-    --accent-color: #ff4500; /* Bright orange for accents */
-    --text-color: #ffffff; /* White for text */
-    --hover-color: #00378a; /* Darker blue for hover states */
+    --primary-color: #0047ab; 
+    --secondary-color: #f5f5f5; 
+    --accent-color: #ff4500;
+    --text-color: #ffffff; 
+    --hover-color: #00378a; 
 }
 
-/* Reset and Base Styles */
 * {
     margin: 0;
     padding: 0;
@@ -22,7 +19,7 @@ body {
     color: var(--primary-color);
 }
 
-/* Header Styles */
+
 .logo {
     display: flex;
     align-items: center;
@@ -34,7 +31,7 @@ body {
 }
 
 .logo img {
-    height: 40px; /* Small-sized logo */
+    height: 40px;
     width: auto;
     object-fit: contain;
 }
@@ -68,7 +65,6 @@ body {
     font-weight: bold;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .logo {
         flex-wrap: wrap;
