@@ -1,0 +1,106 @@
+/* header.css */
+
+/* Global Color Variables */
+:root {
+    --primary-color: #0047ab; /* Deep blue for sports vibe */
+    --secondary-color: #f5f5f5; /* Light gray for background */
+    --accent-color: #ff4500; /* Bright orange for accents */
+    --text-color: #ffffff; /* White for text */
+    --hover-color: #00378a; /* Darker blue for hover states */
+}
+
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+/* Header Styles */
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: var(--primary-color);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: var(--text-color);
+}
+
+.logo img {
+    height: 40px; /* Small-sized logo */
+    width: auto;
+    object-fit: contain;
+}
+
+.text-h3 {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+.logo button {
+    padding: 8px 16px;
+    background-color: var(--accent-color);
+    color: var(--text-color);
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.logo button:hover {
+    background-color: var(--hover-color);
+}
+
+.logo a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: bold;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .logo {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .text-h3 {
+        font-size: 16px;
+        margin: 10px 0;
+    }
+
+    .logo img {
+        height: 35px;
+    }
+
+    .logo button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo img {
+        height: 30px;
+    }
+
+    .text-h3 {
+        font-size: 14px;
+    }
+
+    .logo button {
+        padding: 8px 12px;
+        font-size: 12px;
+    }
+}
