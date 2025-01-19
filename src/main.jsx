@@ -14,7 +14,7 @@ import FootBall from './components/Pages/FootBall'
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<Layout/>}>
-      <Route path="" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route path="home" element={<Home />} />
       <Route path="bandminton" element={<Bandminton />} />
       <Route path="cricket " element={<Cricket  />} />

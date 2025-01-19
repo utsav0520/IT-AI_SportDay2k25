@@ -5,7 +5,7 @@ import './style.css'
 function Chess() {
   return (
         <div className="center animated-background">
-        <h1 className='text'>Chess</h1>
+        <h1 className='head-text'>Chess</h1>
         <div className="rules">
           <h1 className="rules-text">Rules : </h1>
           <div className="content">

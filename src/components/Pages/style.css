@@ -21,6 +21,22 @@ body {
     background-color: var(--secondary-color);
 }
 
+.head-text{
+    font-size: 64px; 
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #ff4500; 
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); 
+    letter-spacing: 2px;
+    background: linear-gradient(45deg, #3f2b2b, #000000); 
+    -webkit-background-clip: text;
+    color: transparent; 
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+}
 
 .text {
     font-size: 48px; 
@@ -30,7 +46,7 @@ body {
     color: #ff4500; 
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); 
     letter-spacing: 2px;
-    background: linear-gradient(45deg, #19ffa7, #fafafa); 
+    background: linear-gradient(45deg, #3f2b2b, #000000); 
     -webkit-background-clip: text;
     color: transparent; 
     padding: 10px 20px; 
