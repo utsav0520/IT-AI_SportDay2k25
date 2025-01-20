@@ -26,7 +26,7 @@ function Bandminton() {
             <h className="text">
             🫂Join the group for More Updates :
             <a href='https://chat.whatsapp.com/FGPQAjtQCOu9ttrhm8TkvE'>
-            https://chat.whatsapp.com/FGPQAjtQCOu9ttrhm8TkvE
+            Joint Now
             </a>
             </h>
             <h className="text">
