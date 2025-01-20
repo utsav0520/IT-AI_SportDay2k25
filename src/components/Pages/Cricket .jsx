@@ -31,6 +31,10 @@ function Cricate() {
             👥 Team Composition:
             Each team must consist of 8 players and 2 substitute players.                                       
             </h> */}
+            <h className="text">    
+              👥 Team Composition:
+              Each team must consist of 8 players and 2 substitute players.
+            </h>      
             <h className="text">          
               📍 Venue: KP College Ground
               <br />
@@ -39,11 +43,12 @@ function Cricate() {
               🕘 Time: 9 am Onwards
             </h>
             <h className="text">
-            🫂Join the group for More Updates :
-            <a href='https://chat.whatsapp.com/HyQpMk4f7Pt7ZJi3JMRrZn'>
-            Join Here
-            </a>
+              🫂Join the group for More Updates :
+              <a href='https://chat.whatsapp.com/HyQpMk4f7Pt7ZJi3JMRrZn'>
+                Join Here
+              </a>
             </h>
+
           </div>
           <div className="details">
             <p className="contact-text">for More information contact :</p>
