@@ -19,9 +19,9 @@ function Footer() {
       <div className="cointener">
         <h3 className="heading">Student Head : </h3>
         <div className="faculty-name">
-          <p className="name">uv</p>
-          <p className="name">uv</p>
-          <p className="name">uv</p>
+          <p className="name">Preet Mehata</p>
+          <p className="name">Jenish Sonani</p>
+          <p className="name">Krishna Desai</p>
         </div>
       </div>
     </div>

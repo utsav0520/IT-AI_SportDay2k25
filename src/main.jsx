@@ -9,7 +9,6 @@ import Cricket  from './components/Pages/Cricket '
 import Chess from './components/Pages/Chess'
 import TugofWar from './components/Pages/TugofWar'
 import Volleyball from './components/Pages/Volleyball'
-import FootBall from './components/Pages/FootBall'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -21,7 +20,6 @@ const router = createBrowserRouter(
       <Route path="tugofwar" element={<TugofWar />} />
       <Route path="chess" element={<Chess />} />
       <Route path="volleyball" element={<Volleyball />} />
-      <Route path="football" element={<FootBall />} />
     </Route>
   )
 )

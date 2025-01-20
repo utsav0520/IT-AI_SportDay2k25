@@ -9,7 +9,6 @@ function Home() {
     <button><NavLink to='/bandminton'>BadMiniton</NavLink></button>
     <button><NavLink to='/chess'> Chess</NavLink></button>
     <button><NavLink to='/cricket '>Cricket </NavLink></button>
-    <button><NavLink to='/football'> FootBall</NavLink></button>
     <button><NavLink to='/tugofwar'>Tug of War </NavLink></button>
     <button><NavLink to='/volleyball'>Volleyball </NavLink></button>
   </div>

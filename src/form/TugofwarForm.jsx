@@ -6,7 +6,7 @@ function TugofwarForm() {
     <div>
       <iframe 
       className='form'
-      src="https://docs.google.com/forms/d/e/1FAIpQLSfn_6mtfZK7QGsmjCJFBuvZbtAjR734HDdFQhfBf91Kt_p3ng/viewform?embedded=true" 
+      src="https://docs.google.com/forms/d/e/1FAIpQLSeQN7ynrKauc9BdiZ9UZewsm2PmvOo517I8w9NWOhgt9Jzpug/viewform?embedded=true" 
       // width="640" 
       // height="1211" 
       frameborder="0" 
