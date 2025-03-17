@@ -19,7 +19,7 @@ function Bandminton() {
               <br />
               💰 Registration Details:~
               <br />
-            Participation is super easy! Pay just ₹20 On the Events Day, and you’re in for the most exciting matches. One nominal fee, unlimited fun! 🤑
+            Participation is super easy! Pay just ₹30 On the Events Day, and you’re in for the most exciting matches. One nominal fee, unlimited fun! 🤑
             <br />
 
             Spread the word, grab your rackets, and let’s make this event a smashing success! 🚀🏸🏆
