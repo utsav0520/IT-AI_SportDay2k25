@@ -8,7 +8,7 @@ function Home() {
     <h1 className='text-home'>Let's Participate : </h1>
     <button><NavLink to='/bandminton'>BadMiniton</NavLink></button>
     <button><NavLink to='/chess'> Chess</NavLink></button>
-    <button><NavLink to='/cricket '>Cricket </NavLink></button>
+    <button><NavLink to='/cricket'>Cricket </NavLink></button>
     <button><NavLink to='/tugofwar'>Tug of War </NavLink></button>
     <button><NavLink to='/volleyball'>Volleyball </NavLink></button>
   </div>

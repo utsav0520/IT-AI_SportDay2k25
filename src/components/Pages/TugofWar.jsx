@@ -32,8 +32,8 @@ function TogofWar() {
             </h>
             <h className="text">
               Date and Time <br />
-              📅 Date: 24th Jan <br />
-              ⏰ Time: 8:30 AM Onwards <br />
+              📅 Date: 29th March<br />
+              ⏰ Time: 11 AM Onwards <br />
               📍 Location:  MTB Cricket Ground
             </h>
             <h className="text">

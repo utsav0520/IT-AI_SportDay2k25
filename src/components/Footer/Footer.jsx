@@ -20,8 +20,7 @@ function Footer() {
         <h3 className="heading">Student Head : </h3>
         <div className="faculty-name">
           <p className="name">Preet Mehata</p>
-          <p className="name">Jenish Sonani</p>
-          <p className="name">Krishna Desai</p>
+          <p className="name">Utsav Vachhani</p>
         </div>
       </div>
     </div>

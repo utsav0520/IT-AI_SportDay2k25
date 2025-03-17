@@ -9,14 +9,14 @@ function Cricate() {
         <div className="rules">
           <h1 className="rules-text">Description :  </h1>
           <div className="content">
-          <h className="text">
+          {/* <h className="text">
             🎉 Cricket Carnival 2025! 🏏
           </h>
           <h className="text">
             Hey Cricket Fans! 🌟
             <br />
             Get ready to bat, bowl, and field your way to glory at the ultimate cricket event of the year! 🏏✨
-          </h>
+          </h> */}
           <h className="text">
             💰 Registration Details:
             <br />
@@ -38,7 +38,7 @@ function Cricate() {
             <h className="text">          
               📍 Venue: KP College Ground
               <br />
-              📆 Date: 24th and 25th January 2025
+              📆 Date: 29th March 2025
               <br />
               🕘 Time: 9 am Onwards
             </h>
