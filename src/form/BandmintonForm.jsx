@@ -5,8 +5,8 @@ function BandmintonForm() {
   return (
     <div>
         <iframe className='form'
-            src="https://docs.google.com/forms/d/e/1FAIpQLSfxWOfQQvNqBMuU14HlFwdR31LDoAeMvTk9bOvs1KL-yArgaQ/viewform?embedded=true" 
-            // width="640" 
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdRCitw7uD-9iOkJ3yAa72lSECbjFNtNIVoyZJ55qQDs_7nOA/viewform?embedded=true"
+// width="640" 
             // height="1211" 
             frameborder="0" 
             marginheight="0" 
