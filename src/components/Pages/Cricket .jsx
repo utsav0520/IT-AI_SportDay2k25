@@ -36,7 +36,7 @@ function Cricate() {
               Each team must consist of 8 players and 2 substitute players.
             </h>      
             <h className="text">          
-              📍 Venue: KP College Ground
+              📍 Venue: MTB College Ground
               <br />
               📆 Date: 29th March 2025
               <br />

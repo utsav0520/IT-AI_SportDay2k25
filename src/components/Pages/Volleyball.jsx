@@ -20,7 +20,7 @@ function Volleyball() {
               Join the action for just ₹200 per team! One small fee for endless volleyball thrills! 🤑
             </h>
             <h className="text">
-              📍 Venue: KP College Ground
+              📍 Venue: MTB College Ground
               <br />
               📆 Date: 29th March 2025
               <br />
