@@ -34,7 +34,10 @@ function Cricate() {
             <h className="text">    
               👥 Team Composition:
               Each team must consist of 8 players and 2 substitute players.
-            </h>      
+            </h>     
+            <h className="text">    
+            🥎 Bowling Style : Throw 
+              </h>
             <h className="text">          
               📍 Venue: MTB College Ground
               <br />
