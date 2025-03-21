@@ -54,7 +54,7 @@ function Chess() {
 
           <div className="details">
             <p className="contact-text">for More information contact :</p>
-            <h3 className="contact">utsav Vachhani : 9512655868</h3>
+            <h3 className="contact">Utsav Vachhani : 9512655868</h3>
             <h3 className="contact">Manav Avaiya : 9106070799</h3>
           </div>
         </div>
