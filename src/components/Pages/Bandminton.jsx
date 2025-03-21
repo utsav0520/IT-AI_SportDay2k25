@@ -5,7 +5,7 @@ import './style.css'
 function Bandminton() {
   return (
     <div className="center animated-background">
-        <h1 className='text'>Bandminston</h1>
+        <h1 className='text'>Bandminton</h1>
         <div className="rules">
           <h1 className="rules-text">Description : </h1>
           <div className="content">
