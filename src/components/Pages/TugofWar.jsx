@@ -46,7 +46,7 @@ function TogofWar() {
             <h className="text">
               🫂Join the group for More Updates :
               <a href='https://chat.whatsapp.com/LIRVzCZmMqrLJtPfyC2rIu'>
-                Join Here
+                Join Now
               </a>
             </h>
           </div>

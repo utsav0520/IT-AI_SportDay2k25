@@ -51,7 +51,7 @@ function Volleyball() {
             <h className="text">
               🫂Join the group for More Updates :
               <a href='https://chat.whatsapp.com/Jt7uo4sHGqsA9XukUGA5Sn'>
-                Join Here
+                Join Now
               </a>
             </h>
         </div>

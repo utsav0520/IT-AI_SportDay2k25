@@ -48,7 +48,7 @@ function Cricate() {
             <h className="text">
               🫂Join the group for More Updates :
               <a href='https://chat.whatsapp.com/HyQpMk4f7Pt7ZJi3JMRrZn'>
-                Join Here
+                Join Now
               </a>
             </h>
 

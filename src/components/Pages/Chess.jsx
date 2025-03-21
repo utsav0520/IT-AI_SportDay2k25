@@ -8,7 +8,6 @@ function Chess() {
         <h1 className='head-text'>Chess</h1>
         <div className="rules">
           <h1 className="rules-text">Rules : </h1>
-          <div className="rules">
           <div className="content">
             {/* <h className="text">
               ♟ Hey Chess Enthusiasts! 🌟
@@ -41,7 +40,7 @@ function Chess() {
             <h className="text">
                       🫂Join the group for More Updates :
                       <a href='https://chat.whatsapp.com/HTgNC9Erfdk0OHwQbGPCga'>
-                        Join Here
+                        Join Now
                       </a>
                     </h>
             <h className="text">
@@ -49,7 +48,6 @@ function Chess() {
               <br />
               See you at the board! Good luck! ✨
             </h>
-          </div>
         </div>
 
           <div className="details">
