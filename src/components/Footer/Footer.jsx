@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className='main'>
       <div className="cointener">
-        <h3 className="heading">Faculty Incharsed: </h3>
+        <h3 className="heading">Faculty Coordinator: </h3>
         <div className="faculty-name">
           <p className="name">Hiren Vavaiya</p>
         </div>
@@ -19,7 +19,7 @@ function Footer() {
       <div className="cointener">
         <h3 className="heading">Student Head : </h3>
         <div className="faculty-name">
-          <p className="name">Preet Mehata</p>
+          <p className="name">Preet Mehta</p>
           <p className="name">Utsav Vachhani</p>
         </div>
       </div>
